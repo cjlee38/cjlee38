@@ -1,4 +1,4 @@
-### Hi there 👋
+[**Personal Study Repository**](https://cjlee38.notion.site/Study-410513811e454139aea696f2e475c589)
 
 <!--
 **cjlee38/cjlee38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
